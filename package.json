@@ -1,7 +1,7 @@
 {
   "name": "wocss-generic-sanitize",
   "version": "1.0.0",
-  "description": "Custom sanitize.css",
+  "description": "[DEPRECATED] Custom sanitize.css",
   "main": "_generic.sanitize.scss",
   "repository": {
     "type": "git",
